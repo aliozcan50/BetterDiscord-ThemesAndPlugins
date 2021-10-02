@@ -505,7 +505,6 @@ The 2 items above are not owned by me, They go to there respected owners
 
 	/*Join & Create Server Popup*/
 	#app-mount .action-1lSjCi {border-radius: 10px; background-color: var(--secondary1-colour)}
-
 	#app-mount .header-3ZP1MY {color: var(--activetext-colour);} 
 	#app-mount .create-3jownz .colorStandard-2KCXvj {color: rgb(114, 137, 218);}
 	#app-mount .join-33Tr-7 .colorStandard-2KCXvj {color: #43b581;}
@@ -558,7 +557,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		height: 30px
 	}
 	#app-mount .typeWindows-1za-n7:after {
-		content: "GGO Kirito v1.2.3 By VaporousCreeper";
+		content: "instagram = @sworzy.reis";
 		color: rgb(255,255,255,0.5);
 		font-weight: 500;
 
